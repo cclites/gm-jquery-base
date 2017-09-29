@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 /*
- * Author: cclites@sweeps-soft.com, Oct. 2014
+ * Author: chad@extant.digital, Oct. 2017
  * 
  * Base Greasemonkey script to import JQuery.
  */
@@ -44,5 +44,7 @@ window.onload = function() {
   link.type = 'text/css';
   link.href = 'http://localhost/css/site.css';
   document.getElementsByTagName("HEAD")[0].appendChild(link);
+  
+  alert("Ready to go");
   
 };
