@@ -3,7 +3,7 @@
 // @namespace   namespace
 // @include     *//MySite*
 // @version     1
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @require     http://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
 // ==/UserScript==
 
 /*
